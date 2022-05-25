@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Umschulung Fachinformatiker\Lernzeit\Programmierung\Code Projekte\keyTranslator\bin\Debug\keyTranslator.exe.config
+C:\Users\User\Documents\Umschulung Fachinformatiker\Lernzeit\Programmierung\Code Projekte\keyTranslator\bin\Debug\keyTranslator.exe
+C:\Users\User\Documents\Umschulung Fachinformatiker\Lernzeit\Programmierung\Code Projekte\keyTranslator\bin\Debug\keyTranslator.pdb
+C:\Users\User\Documents\Umschulung Fachinformatiker\Lernzeit\Programmierung\Code Projekte\keyTranslator\obj\Debug\keyTranslator.csprojAssemblyReference.cache
+C:\Users\User\Documents\Umschulung Fachinformatiker\Lernzeit\Programmierung\Code Projekte\keyTranslator\obj\Debug\keyTranslator.exe
+C:\Users\User\Documents\Umschulung Fachinformatiker\Lernzeit\Programmierung\Code Projekte\keyTranslator\obj\Debug\keyTranslator.pdb
